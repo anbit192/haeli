@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":293.3333333333333},
-{"id":2,"expanded":true,"name":"House","order":2,"parentId":0,"scrollX":811,"scrollY":448},
+{"id":2,"expanded":true,"name":"House","order":2,"parentId":0,"scrollX":720.8888888888889,"scrollY":454.22222222222223},
 {"id":3,"expanded":false,"name":"Kitchen","order":3,"parentId":2,"scrollX":819,"scrollY":448}
 ]
